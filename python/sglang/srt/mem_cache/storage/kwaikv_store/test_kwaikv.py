@@ -1,4 +1,4 @@
-from kwaikv_client import create_client, KwaiKVClient, KwaiKVClientError
+from kwaikvclient import create_client, KwaiKVClient, KwaiKVClientError
 
 client = create_client(
     host="127.0.0.1",
